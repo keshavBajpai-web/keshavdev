@@ -4,4 +4,4 @@ this is my first git Repository
 author :- Keshav Bajpai(developer)<br>
 branch :- cse<br>
 ralationship Status :- single<br>
-fresher
+fresher :- ready for the job
